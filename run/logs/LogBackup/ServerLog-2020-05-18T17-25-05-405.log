@@ -1,0 +1,26 @@
+=== Started 2020-05-18T14-09-55-451 ===
+[INFO ][14:09:55] 418 bad words loaded
+[WARN ][14:09:55] User account "Local Administrator" disabled
+[WARN ][14:09:55] User account "Local Moderator" disabled
+[WARN ][14:09:55] User account "Local User" disabled
+[INFO ][14:09:55] 0 user records loaded.
+[WARN ][14:09:55] ../src/ipbanlist.txt is missing.
+[INFO ][14:09:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:09:55] WebSocket: ws
+[INFO ][14:09:55] Started stats server on port 88
+[INFO ][14:09:55] Listening on port 443
+[INFO ][14:09:55] Current game mode is Free For All
+[NONE ][14:09:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:09:55] CONNECTED 127.0.0.1:54547, origin: "http://test123123f.zzz.com.ua"
+[NONE ][14:09:57] CONNECTED 127.0.0.1:54548, origin: "http://test123123f.zzz.com.ua"
+[NONE ][14:09:57] DISCONNECTED 127.0.0.1:54547, code: 1005, reason: "", name: ""
+[NONE ][14:10:06] >mn 2 200
+[NONE ][14:10:06] Added 200 minions for wdqd$wizard
+[NONE ][14:10:13] >mn 2 200
+[NONE ][14:10:13] Added 200 minions for wdqd$wizard
+[NONE ][14:13:20] DISCONNECTED 127.0.0.1:54548, code: 1001, reason: "", name: "wdqd$wizard"
